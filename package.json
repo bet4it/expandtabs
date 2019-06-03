@@ -1,0 +1,17 @@
+{
+	"name": "expandtabs",
+	"version": "1.0.0",
+	"description": "Javascript version of expandtabs",
+	"repository": "bet4it/expandtabs",
+	"author": "Bet4 <0xbet4@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"test": "xo"
+	},
+	"devDependencies": {
+		"xo": "^0.24.0"
+	},
+	"dependencies": {
+		"string-width": "^4.1.0"
+	}
+}
